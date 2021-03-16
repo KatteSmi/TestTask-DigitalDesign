@@ -13,3 +13,8 @@
 
 Дополнительное задание:
 Проверить входную строку на валидность.
+
+
+
+
+<iframe src="https://gifer.com/embed/5Dik" width=480 height=731.098 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
