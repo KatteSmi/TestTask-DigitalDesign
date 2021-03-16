@@ -17,4 +17,5 @@
 
 
 
-<iframe src="https://gifer.com/embed/5Dik" width=480 height=731.098 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+![5Dik](https://user-images.githubusercontent.com/66886929/111349475-35bf2a80-8692-11eb-9362-81a315663af4.gif)
+
